@@ -1,0 +1,4 @@
+425
+3
+125
+ChecklistGoal;Doingassigments;100;4;4;25
